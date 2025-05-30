@@ -1,0 +1,2558 @@
+[
+  {
+    "id": "CUST001",
+    "name": "Customer 1",
+    "transactions": [
+      {
+        "id": "bf9885dd-36b2-4faa-b851-e6680307e081",
+        "amount": 22.05,
+        "details": "Purchase from store #3",
+        "date": "2024-05-24"
+      },
+      {
+        "id": "daee677c-3f75-4f24-9ee1-f8600fd50355",
+        "amount": 142.83,
+        "details": "Purchase from store #4",
+        "date": "2024-10-21"
+      },
+      {
+        "id": "18a2cb34-efdf-4d7c-b891-fa8219162cb1",
+        "amount": 273.76,
+        "details": "Purchase from store #1",
+        "date": "2025-05-31"
+      },
+      {
+        "id": "ad5468af-26bd-4601-bda3-c56699119461",
+        "amount": 13.18,
+        "details": "Purchase from store #5",
+        "date": "2024-04-06"
+      },
+      {
+        "id": "dab5b425-7e8f-4464-b758-54d1ea973430",
+        "amount": 201.45,
+        "details": "Purchase from store #2",
+        "date": "2025-05-28"
+      },
+      {
+        "id": "21411abf-5740-41cf-ba5b-789249297df2",
+        "amount": 290.62,
+        "details": "Purchase from store #4",
+        "date": "2024-04-13"
+      },
+      {
+        "id": "681727c2-9264-498c-83c4-3966399cf752",
+        "amount": 87.85,
+        "details": "Purchase from store #5",
+        "date": "2025-01-05"
+      }
+    ]
+  },
+  {
+    "id": "CUST002",
+    "name": "Customer 2",
+    "transactions": [
+      {
+        "id": "42118247-c091-4e7c-88fd-83b6752089f3",
+        "amount": 219.8,
+        "details": "Purchase from store #3",
+        "date": "2025-01-04"
+      },
+      {
+        "id": "4e11e22c-c658-49bc-b7a5-9fea773a3430",
+        "amount": 299.57,
+        "details": "Purchase from store #1",
+        "date": "2024-04-18"
+      },
+      {
+        "id": "9b5f9106-5322-47bd-a78d-50cb94538da6",
+        "amount": 243.25,
+        "details": "Purchase from store #1",
+        "date": "2025-12-26"
+      },
+      {
+        "id": "a5ab3b21-e5c3-4533-a817-738498a2bee8",
+        "amount": 112.98,
+        "details": "Purchase from store #2",
+        "date": "2024-11-11"
+      },
+      {
+        "id": "c918dd3f-8bdd-4b49-96c7-a168337e5c27",
+        "amount": 91.04,
+        "details": "Purchase from store #1",
+        "date": "2025-11-07"
+      },
+      {
+        "id": "ac3cba12-4960-43f0-94b5-de2a41f91a94",
+        "amount": 241.57,
+        "details": "Purchase from store #1",
+        "date": "2025-04-15"
+      },
+      {
+        "id": "21388d37-2ed4-4696-9fb0-350973864b58",
+        "amount": 166.53,
+        "details": "Purchase from store #2",
+        "date": "2024-06-07"
+      },
+      {
+        "id": "740385cb-1c09-4f4b-b828-781cec970bde",
+        "amount": 127.3,
+        "details": "Purchase from store #2",
+        "date": "2024-10-28"
+      },
+      {
+        "id": "5a972e77-68a7-4e0c-adf4-91017dc415e9",
+        "amount": 284.31,
+        "details": "Purchase from store #3",
+        "date": "2025-12-24"
+      },
+      {
+        "id": "101ebb92-9bf4-4ba5-ab07-0746490d16ca",
+        "amount": 278.98,
+        "details": "Purchase from store #4",
+        "date": "2025-03-08"
+      },
+      {
+        "id": "20df1f68-4768-4ea0-8093-e32eff5dc8ff",
+        "amount": 205.78,
+        "details": "Purchase from store #4",
+        "date": "2024-06-15"
+      },
+      {
+        "id": "eed7850c-6bc5-42d3-b651-bd57801d175a",
+        "amount": 191.3,
+        "details": "Purchase from store #2",
+        "date": "2025-09-16"
+      },
+      {
+        "id": "05d476d9-5729-4360-aeb9-ce8b3f06aa40",
+        "amount": 185.61,
+        "details": "Purchase from store #3",
+        "date": "2025-11-29"
+      }
+    ]
+  },
+  {
+    "id": "CUST003",
+    "name": "Customer 3",
+    "transactions": [
+      {
+        "id": "3a2ab375-b918-4226-ad0c-6605fd3261d2",
+        "amount": 231.6,
+        "details": "Purchase from store #3",
+        "date": "2025-10-25"
+      },
+      {
+        "id": "d272ff06-18a7-4461-8ad2-7a390a8bc4cb",
+        "amount": 89.71,
+        "details": "Purchase from store #5",
+        "date": "2024-05-10"
+      },
+      {
+        "id": "6cfaff53-f8ac-4f44-b68a-b486ee72c456",
+        "amount": 95.06,
+        "details": "Purchase from store #2",
+        "date": "2025-06-12"
+      },
+      {
+        "id": "61b18b72-ef6c-4c4b-a685-131e9d960d64",
+        "amount": 89.4,
+        "details": "Purchase from store #2",
+        "date": "2024-01-16"
+      },
+      {
+        "id": "e7e3504d-ec34-4be8-9db1-e0dfa8ff379a",
+        "amount": 79.91,
+        "details": "Purchase from store #1",
+        "date": "2025-12-27"
+      },
+      {
+        "id": "5a332135-7b25-4003-9c39-2a7365a238f7",
+        "amount": 37.66,
+        "details": "Purchase from store #5",
+        "date": "2024-01-16"
+      }
+    ]
+  },
+  {
+    "id": "CUST004",
+    "name": "Customer 4",
+    "transactions": [
+      {
+        "id": "0bcbf93e-83d5-4e5d-b970-9adf00b10930",
+        "amount": 210.59,
+        "details": "Purchase from store #3",
+        "date": "2024-07-18"
+      },
+      {
+        "id": "94b59c9c-1778-4878-9635-f6778c3e4c5a",
+        "amount": 164.61,
+        "details": "Purchase from store #3",
+        "date": "2024-04-12"
+      },
+      {
+        "id": "9c53bda3-d165-4a96-b728-80fdd973e052",
+        "amount": 101.2,
+        "details": "Purchase from store #4",
+        "date": "2025-12-16"
+      },
+      {
+        "id": "694eb358-9bde-4041-8eee-ab576821c11a",
+        "amount": 92.39,
+        "details": "Purchase from store #4",
+        "date": "2025-03-16"
+      },
+      {
+        "id": "5f4bda49-8cc3-4b81-a884-e6b47fc149e0",
+        "amount": 137.29,
+        "details": "Purchase from store #4",
+        "date": "2025-08-28"
+      },
+      {
+        "id": "1fb72364-aef6-4dea-804a-1bf65b62b4c1",
+        "amount": 66.61,
+        "details": "Purchase from store #3",
+        "date": "2024-07-30"
+      },
+      {
+        "id": "cfda0abb-6568-4bf9-bed1-29e79d7bb2d4",
+        "amount": 68.8,
+        "details": "Purchase from store #2",
+        "date": "2025-10-09"
+      }
+    ]
+  },
+  {
+    "id": "CUST005",
+    "name": "Customer 5",
+    "transactions": [
+      {
+        "id": "844efba2-d878-4331-b1ed-30dd2db80ef8",
+        "amount": 292.86,
+        "details": "Purchase from store #3",
+        "date": "2025-10-01"
+      },
+      {
+        "id": "f62a428b-d83d-4938-9443-fcc9b82d3b3c",
+        "amount": 47.95,
+        "details": "Purchase from store #4",
+        "date": "2025-09-12"
+      },
+      {
+        "id": "711c8562-fed1-43b4-9b56-411ac1989441",
+        "amount": 121.33,
+        "details": "Purchase from store #4",
+        "date": "2025-01-06"
+      },
+      {
+        "id": "1e8b1818-c66d-4c77-ba25-4bcebd3bc414",
+        "amount": 50.76,
+        "details": "Purchase from store #1",
+        "date": "2025-02-26"
+      },
+      {
+        "id": "ecdfa1d4-ec1d-4312-8db1-ac6b7f948544",
+        "amount": 284.02,
+        "details": "Purchase from store #1",
+        "date": "2024-07-03"
+      },
+      {
+        "id": "26919916-e6cc-4ed1-b3ec-af7acd32675c",
+        "amount": 191.04,
+        "details": "Purchase from store #1",
+        "date": "2024-12-28"
+      },
+      {
+        "id": "351ea3e8-ef12-4c8c-b5fd-b69b66e6a7d8",
+        "amount": 91.48,
+        "details": "Purchase from store #2",
+        "date": "2024-04-02"
+      },
+      {
+        "id": "98f3ef2d-f95a-4e97-a492-9066c1463bc1",
+        "amount": 231.64,
+        "details": "Purchase from store #4",
+        "date": "2024-11-01"
+      },
+      {
+        "id": "dd1de586-6a84-470c-98c7-2f8857831835",
+        "amount": 66.16,
+        "details": "Purchase from store #3",
+        "date": "2025-04-25"
+      },
+      {
+        "id": "8bbd65ed-7086-4157-ae62-f44fb3e0105c",
+        "amount": 99.9,
+        "details": "Purchase from store #2",
+        "date": "2025-01-29"
+      },
+      {
+        "id": "9517b910-1bb3-4a64-abe4-8c5d33b90da3",
+        "amount": 282.59,
+        "details": "Purchase from store #4",
+        "date": "2025-12-05"
+      },
+      {
+        "id": "5ea3ecbb-cdc5-4727-bbda-2add10233e93",
+        "amount": 208.02,
+        "details": "Purchase from store #5",
+        "date": "2025-11-06"
+      },
+      {
+        "id": "db5eca70-ad01-4433-8a38-4585466763f8",
+        "amount": 83.65,
+        "details": "Purchase from store #1",
+        "date": "2024-11-15"
+      },
+      {
+        "id": "53abd933-ae33-460a-986f-2a3aa86df771",
+        "amount": 227.91,
+        "details": "Purchase from store #4",
+        "date": "2025-11-30"
+      },
+      {
+        "id": "eb99f58e-3958-4783-9b45-04049d20f62c",
+        "amount": 147.12,
+        "details": "Purchase from store #1",
+        "date": "2024-02-14"
+      }
+    ]
+  },
+  {
+    "id": "CUST006",
+    "name": "Customer 6",
+    "transactions": [
+      {
+        "id": "96b3dcfb-c71c-42b8-b5c8-213473f8f378",
+        "amount": 176.52,
+        "details": "Purchase from store #1",
+        "date": "2024-02-17"
+      },
+      {
+        "id": "08b4824d-c4d7-4df9-8c99-dc55d81e01ce",
+        "amount": 51.94,
+        "details": "Purchase from store #5",
+        "date": "2024-10-25"
+      },
+      {
+        "id": "60e222f0-573d-4722-ac9e-0fabeb35d599",
+        "amount": 22.89,
+        "details": "Purchase from store #4",
+        "date": "2024-04-18"
+      },
+      {
+        "id": "9908c670-3cff-4b0b-81ff-60af5d836eac",
+        "amount": 91.08,
+        "details": "Purchase from store #1",
+        "date": "2024-06-09"
+      },
+      {
+        "id": "a7574944-0734-4523-af3c-8db99b625a30",
+        "amount": 230.83,
+        "details": "Purchase from store #2",
+        "date": "2025-11-16"
+      },
+      {
+        "id": "7d6036c9-9585-46df-8298-39304518d081",
+        "amount": 19.51,
+        "details": "Purchase from store #2",
+        "date": "2024-08-06"
+      }
+    ]
+  },
+  {
+    "id": "CUST007",
+    "name": "Customer 7",
+    "transactions": [
+      {
+        "id": "63db48f9-c69f-4d99-915a-2dcac07c06e4",
+        "amount": 79.97,
+        "details": "Purchase from store #1",
+        "date": "2025-09-17"
+      },
+      {
+        "id": "ed3f4957-5ebf-49e8-bca0-c04c293796ff",
+        "amount": 23.13,
+        "details": "Purchase from store #2",
+        "date": "2025-08-19"
+      },
+      {
+        "id": "85408781-0d9b-499f-ac21-c1b6338645cd",
+        "amount": 170.1,
+        "details": "Purchase from store #4",
+        "date": "2025-11-21"
+      },
+      {
+        "id": "40ed93fd-8169-48f1-8021-212b6dda2d76",
+        "amount": 235.87,
+        "details": "Purchase from store #5",
+        "date": "2025-10-30"
+      },
+      {
+        "id": "f17f7251-9340-42f0-87bc-dc6c160706fa",
+        "amount": 196.86,
+        "details": "Purchase from store #4",
+        "date": "2025-02-12"
+      },
+      {
+        "id": "bbfaafe8-ba38-4982-a705-e7ec84f12829",
+        "amount": 90.4,
+        "details": "Purchase from store #4",
+        "date": "2025-05-27"
+      },
+      {
+        "id": "6d0097cb-ae69-4b9e-b9f1-ff35aefd25ae",
+        "amount": 197.56,
+        "details": "Purchase from store #2",
+        "date": "2024-03-05"
+      },
+      {
+        "id": "4692ef37-5017-442c-b242-dde563472b30",
+        "amount": 52.09,
+        "details": "Purchase from store #5",
+        "date": "2025-05-08"
+      },
+      {
+        "id": "66f44915-f72f-4cd6-a136-d36d3f95ee1b",
+        "amount": 26.69,
+        "details": "Purchase from store #1",
+        "date": "2024-06-23"
+      },
+      {
+        "id": "d2188803-e9f5-4b51-a43e-3c60e049546f",
+        "amount": 146.1,
+        "details": "Purchase from store #5",
+        "date": "2025-08-29"
+      },
+      {
+        "id": "f346cf3c-4447-44ef-9c68-84796e1b5634",
+        "amount": 249.37,
+        "details": "Purchase from store #1",
+        "date": "2024-10-21"
+      },
+      {
+        "id": "17faac7e-6c71-4b98-b20c-888396b83c37",
+        "amount": 259.51,
+        "details": "Purchase from store #5",
+        "date": "2024-07-24"
+      },
+      {
+        "id": "6453087f-ac28-419e-b424-94fde142553b",
+        "amount": 129.14,
+        "details": "Purchase from store #2",
+        "date": "2025-12-02"
+      }
+    ]
+  },
+  {
+    "id": "CUST008",
+    "name": "Customer 8",
+    "transactions": [
+      {
+        "id": "21f8909f-8b91-4a9b-ad41-8fee924be6db",
+        "amount": 263.86,
+        "details": "Purchase from store #1",
+        "date": "2025-11-05"
+      },
+      {
+        "id": "d943cc7b-8b83-470d-843d-42487069003e",
+        "amount": 258.5,
+        "details": "Purchase from store #5",
+        "date": "2025-08-06"
+      },
+      {
+        "id": "f5721539-620c-466d-ae9a-aef1df433277",
+        "amount": 123.68,
+        "details": "Purchase from store #3",
+        "date": "2025-01-24"
+      },
+      {
+        "id": "d33fd83f-4953-46c1-97b8-dcc01dadb6f2",
+        "amount": 212.23,
+        "details": "Purchase from store #4",
+        "date": "2025-04-17"
+      },
+      {
+        "id": "75018dba-206d-4990-9f42-d7ef832e3e09",
+        "amount": 136.13,
+        "details": "Purchase from store #1",
+        "date": "2025-11-14"
+      },
+      {
+        "id": "b9fa2f12-02bb-4fe0-b252-f15855b97757",
+        "amount": 86.81,
+        "details": "Purchase from store #1",
+        "date": "2025-01-14"
+      }
+    ]
+  },
+  {
+    "id": "CUST009",
+    "name": "Customer 9",
+    "transactions": [
+      {
+        "id": "c4fbc592-a177-4e87-a3d1-34b363d78e0d",
+        "amount": 91.45,
+        "details": "Purchase from store #2",
+        "date": "2025-02-14"
+      },
+      {
+        "id": "a095c0c1-860e-4727-a747-210a35c5b47c",
+        "amount": 163.03,
+        "details": "Purchase from store #5",
+        "date": "2025-12-03"
+      },
+      {
+        "id": "6b0e6bd4-b41e-4a2f-bf42-1d7c8467535a",
+        "amount": 210.67,
+        "details": "Purchase from store #1",
+        "date": "2025-05-16"
+      },
+      {
+        "id": "99fe6914-82ac-4d8b-bff5-996e9efeb906",
+        "amount": 203.78,
+        "details": "Purchase from store #5",
+        "date": "2024-07-13"
+      },
+      {
+        "id": "26d4de81-bb6e-4af7-ae54-0def557232e1",
+        "amount": 161.96,
+        "details": "Purchase from store #4",
+        "date": "2025-09-16"
+      },
+      {
+        "id": "ccb5ea4e-8953-4791-8457-60339d5f1fc5",
+        "amount": 27.2,
+        "details": "Purchase from store #2",
+        "date": "2025-12-16"
+      },
+      {
+        "id": "9f5a866e-4099-4264-92a2-f47e39bbc469",
+        "amount": 276.85,
+        "details": "Purchase from store #4",
+        "date": "2025-04-29"
+      },
+      {
+        "id": "b873dfc1-cfd3-4134-8dea-ea6056c4f933",
+        "amount": 33.67,
+        "details": "Purchase from store #1",
+        "date": "2024-04-08"
+      },
+      {
+        "id": "d9ac8c2e-aa68-49ac-b75a-b02c50ff2d0f",
+        "amount": 58.5,
+        "details": "Purchase from store #5",
+        "date": "2024-08-16"
+      }
+    ]
+  },
+  {
+    "id": "CUST010",
+    "name": "Customer 10",
+    "transactions": [
+      {
+        "id": "43494952-75bc-45e4-bb23-8dfe794fb993",
+        "amount": 144.65,
+        "details": "Purchase from store #5",
+        "date": "2025-07-10"
+      },
+      {
+        "id": "e2fbc68c-a5bc-48f7-a25a-34c99687c1e4",
+        "amount": 10.96,
+        "details": "Purchase from store #5",
+        "date": "2025-10-07"
+      },
+      {
+        "id": "225c0750-1538-441d-87b2-4794c8cd17e2",
+        "amount": 199.12,
+        "details": "Purchase from store #4",
+        "date": "2025-09-15"
+      },
+      {
+        "id": "0675ed9e-1f5f-46ab-8f6b-c6fb38d0ee73",
+        "amount": 55.62,
+        "details": "Purchase from store #3",
+        "date": "2025-07-29"
+      },
+      {
+        "id": "9757d90b-44bc-4189-836b-63828614d367",
+        "amount": 143.59,
+        "details": "Purchase from store #1",
+        "date": "2025-09-06"
+      },
+      {
+        "id": "8ef7b6f9-0476-41e6-862f-fbc465c5abd6",
+        "amount": 79.29,
+        "details": "Purchase from store #2",
+        "date": "2024-01-27"
+      },
+      {
+        "id": "b6dd6af2-8b11-4fce-b543-79cd816cea26",
+        "amount": 256.23,
+        "details": "Purchase from store #3",
+        "date": "2024-12-27"
+      },
+      {
+        "id": "420dbf13-653f-46e3-8d72-66e4b00d4447",
+        "amount": 261.59,
+        "details": "Purchase from store #5",
+        "date": "2025-10-09"
+      },
+      {
+        "id": "d2de36a8-505a-4595-90f9-ecdda9e38e50",
+        "amount": 221.74,
+        "details": "Purchase from store #4",
+        "date": "2025-12-30"
+      }
+    ]
+  },
+  {
+    "id": "CUST011",
+    "name": "Customer 11",
+    "transactions": [
+      {
+        "id": "d69d76e1-5e0a-4e7e-ad9a-991fe5eba1d5",
+        "amount": 126.93,
+        "details": "Purchase from store #1",
+        "date": "2024-01-19"
+      },
+      {
+        "id": "310e387c-c294-4a80-9b00-5bdfbdad4831",
+        "amount": 84.21,
+        "details": "Purchase from store #1",
+        "date": "2024-05-04"
+      },
+      {
+        "id": "2cac5760-7b90-4e02-b686-057644c85816",
+        "amount": 65.52,
+        "details": "Purchase from store #3",
+        "date": "2024-03-05"
+      },
+      {
+        "id": "a397aa07-538c-4328-9c89-5fcc3578deff",
+        "amount": 194.54,
+        "details": "Purchase from store #2",
+        "date": "2025-10-19"
+      },
+      {
+        "id": "8ddc3622-41f3-4f10-af76-987e12c5448d",
+        "amount": 184.86,
+        "details": "Purchase from store #2",
+        "date": "2025-10-24"
+      },
+      {
+        "id": "b2f42780-52a6-406e-a668-b033233afb1d",
+        "amount": 143.42,
+        "details": "Purchase from store #5",
+        "date": "2025-05-21"
+      },
+      {
+        "id": "95f5b67d-3d2f-4b0b-b783-7b5f032ff39a",
+        "amount": 210.46,
+        "details": "Purchase from store #1",
+        "date": "2024-06-25"
+      },
+      {
+        "id": "a41f8e79-56b1-4ff0-8836-59be939bb331",
+        "amount": 13.26,
+        "details": "Purchase from store #1",
+        "date": "2025-06-16"
+      },
+      {
+        "id": "0acf84bc-1c70-4196-b204-eb85ee3da7eb",
+        "amount": 48.97,
+        "details": "Purchase from store #2",
+        "date": "2024-05-15"
+      },
+      {
+        "id": "f6cce8ba-e473-4ab5-8317-5655d9b05549",
+        "amount": 179.56,
+        "details": "Purchase from store #1",
+        "date": "2024-08-24"
+      },
+      {
+        "id": "a2b4c932-a2e8-4c41-94b9-6122805be2d9",
+        "amount": 201.32,
+        "details": "Purchase from store #3",
+        "date": "2024-04-30"
+      },
+      {
+        "id": "539fd0db-b16b-4e50-a705-d4653db6122e",
+        "amount": 108.77,
+        "details": "Purchase from store #2",
+        "date": "2024-10-14"
+      },
+      {
+        "id": "b397d869-aa06-4c94-b736-5a687ccdc1f1",
+        "amount": 218.24,
+        "details": "Purchase from store #4",
+        "date": "2024-03-25"
+      }
+    ]
+  },
+  {
+    "id": "CUST012",
+    "name": "Customer 12",
+    "transactions": [
+      {
+        "id": "d6988ac8-a3e6-4613-b2ca-70953128a9a4",
+        "amount": 162.96,
+        "details": "Purchase from store #2",
+        "date": "2024-09-07"
+      },
+      {
+        "id": "4784338e-08c5-419e-b5c1-51ecb9fec0ac",
+        "amount": 81.19,
+        "details": "Purchase from store #1",
+        "date": "2025-09-05"
+      },
+      {
+        "id": "bf253f80-dbd1-4adb-a08f-f2decd50b749",
+        "amount": 59.24,
+        "details": "Purchase from store #5",
+        "date": "2024-12-01"
+      },
+      {
+        "id": "3b6f7c7d-88f6-4605-8dd4-8ac06f0468c6",
+        "amount": 253.11,
+        "details": "Purchase from store #3",
+        "date": "2024-07-20"
+      },
+      {
+        "id": "41879fd9-4c8b-45f9-a9dc-bbf8964b91a5",
+        "amount": 299.61,
+        "details": "Purchase from store #2",
+        "date": "2024-09-09"
+      },
+      {
+        "id": "7a4e7c68-26f6-40ec-894f-964d568cf61b",
+        "amount": 150.83,
+        "details": "Purchase from store #5",
+        "date": "2024-09-06"
+      },
+      {
+        "id": "c6056f5d-f1d5-4457-9d17-a670f19833a1",
+        "amount": 92.37,
+        "details": "Purchase from store #2",
+        "date": "2025-01-27"
+      },
+      {
+        "id": "8797e6bf-a4ec-4c17-80bb-5bbdb8f97dbf",
+        "amount": 106.37,
+        "details": "Purchase from store #5",
+        "date": "2025-02-26"
+      },
+      {
+        "id": "b1006bd2-a6e3-413c-bb86-bd902595fe80",
+        "amount": 85.94,
+        "details": "Purchase from store #4",
+        "date": "2025-05-04"
+      },
+      {
+        "id": "ff2ba78e-be1e-4c07-9e30-d02c21b41475",
+        "amount": 38.07,
+        "details": "Purchase from store #1",
+        "date": "2024-01-08"
+      },
+      {
+        "id": "9fbb4e4c-4caf-431d-a733-90d001951e16",
+        "amount": 126.54,
+        "details": "Purchase from store #3",
+        "date": "2025-02-11"
+      },
+      {
+        "id": "a02a5446-358f-4f26-bb9b-3573c5cac3c5",
+        "amount": 40.13,
+        "details": "Purchase from store #5",
+        "date": "2024-12-09"
+      },
+      {
+        "id": "08210996-e57f-44e9-b17c-7fc32c34cd42",
+        "amount": 136.57,
+        "details": "Purchase from store #2",
+        "date": "2024-04-03"
+      },
+      {
+        "id": "cbb622b8-a36e-40ec-aa30-4bb0504edfba",
+        "amount": 67.12,
+        "details": "Purchase from store #5",
+        "date": "2025-12-31"
+      }
+    ]
+  },
+  {
+    "id": "CUST013",
+    "name": "Customer 13",
+    "transactions": [
+      {
+        "id": "d2beb21d-a957-492d-93b6-b8c8648b6f03",
+        "amount": 239.8,
+        "details": "Purchase from store #4",
+        "date": "2024-01-30"
+      },
+      {
+        "id": "d8b173a1-7ed8-4847-9952-c2e600e8d7c3",
+        "amount": 76.56,
+        "details": "Purchase from store #4",
+        "date": "2025-08-27"
+      },
+      {
+        "id": "8c484a34-1e02-44b1-9a4f-dfeba556299e",
+        "amount": 296.82,
+        "details": "Purchase from store #2",
+        "date": "2025-12-31"
+      },
+      {
+        "id": "39d0e168-c5ce-4d44-a625-12aa3f98b439",
+        "amount": 122.12,
+        "details": "Purchase from store #4",
+        "date": "2024-12-09"
+      },
+      {
+        "id": "c9cc8bd3-81f8-4c48-9ba5-f7ed6ad07ccd",
+        "amount": 18.34,
+        "details": "Purchase from store #1",
+        "date": "2024-08-15"
+      },
+      {
+        "id": "396bd3ac-25bd-48a9-ada2-6699d0ec28eb",
+        "amount": 100.6,
+        "details": "Purchase from store #1",
+        "date": "2024-05-24"
+      },
+      {
+        "id": "e8b2ac3b-320e-48a2-93a5-ca3db9f89ce5",
+        "amount": 243.85,
+        "details": "Purchase from store #5",
+        "date": "2024-12-29"
+      },
+      {
+        "id": "bc305c27-8321-4cb9-8513-6fdc621cbedf",
+        "amount": 73.92,
+        "details": "Purchase from store #1",
+        "date": "2025-12-02"
+      },
+      {
+        "id": "5fccc322-6100-4b3d-9f78-0edd9d90feb2",
+        "amount": 93.28,
+        "details": "Purchase from store #4",
+        "date": "2025-02-02"
+      },
+      {
+        "id": "012a1ed5-c800-47f1-8f49-562d5798ea30",
+        "amount": 297.94,
+        "details": "Purchase from store #1",
+        "date": "2024-11-28"
+      },
+      {
+        "id": "be072095-7f3f-4195-a088-250adc2e2b6f",
+        "amount": 54.44,
+        "details": "Purchase from store #1",
+        "date": "2025-01-12"
+      },
+      {
+        "id": "c072ec6c-244f-467f-be6a-fa60373b2299",
+        "amount": 224.7,
+        "details": "Purchase from store #5",
+        "date": "2025-07-08"
+      },
+      {
+        "id": "42a41425-20e5-4dac-9e8f-634058660767",
+        "amount": 277.61,
+        "details": "Purchase from store #4",
+        "date": "2025-10-24"
+      },
+      {
+        "id": "c1173a21-bd53-45e7-b564-b562d11f4f28",
+        "amount": 59.8,
+        "details": "Purchase from store #3",
+        "date": "2025-12-07"
+      }
+    ]
+  },
+  {
+    "id": "CUST014",
+    "name": "Customer 14",
+    "transactions": [
+      {
+        "id": "97cc4fdf-493b-49c3-bbfe-bf8da33e1c9a",
+        "amount": 97.52,
+        "details": "Purchase from store #5",
+        "date": "2025-06-26"
+      },
+      {
+        "id": "7c555b80-53a2-40ff-8c2c-a81b814c6443",
+        "amount": 235.77,
+        "details": "Purchase from store #4",
+        "date": "2025-07-26"
+      },
+      {
+        "id": "55b1d40f-9695-47ad-9ca0-800f76be9001",
+        "amount": 211.21,
+        "details": "Purchase from store #1",
+        "date": "2025-06-01"
+      },
+      {
+        "id": "717d76bb-72fc-4480-be42-1d15eca778c3",
+        "amount": 133.2,
+        "details": "Purchase from store #1",
+        "date": "2024-04-16"
+      },
+      {
+        "id": "2076cf31-cecf-4644-b77e-d8d3b854b0a8",
+        "amount": 83.63,
+        "details": "Purchase from store #5",
+        "date": "2024-09-18"
+      },
+      {
+        "id": "cf15d050-06eb-4ba5-b7da-c5fc090198f9",
+        "amount": 50.33,
+        "details": "Purchase from store #5",
+        "date": "2024-10-21"
+      },
+      {
+        "id": "aef111be-be10-4b72-ab21-57815e4dfe0f",
+        "amount": 74.16,
+        "details": "Purchase from store #2",
+        "date": "2024-09-18"
+      },
+      {
+        "id": "21ae3d64-a2cd-4244-b06c-4ed48d6f823f",
+        "amount": 175.28,
+        "details": "Purchase from store #5",
+        "date": "2025-03-21"
+      },
+      {
+        "id": "1dad2f11-b420-49dc-b6cf-17604595c0f1",
+        "amount": 153.36,
+        "details": "Purchase from store #1",
+        "date": "2025-07-23"
+      }
+    ]
+  },
+  {
+    "id": "CUST015",
+    "name": "Customer 15",
+    "transactions": [
+      {
+        "id": "01d1e215-ee94-4f6b-aa04-243ff3227ff5",
+        "amount": 275.22,
+        "details": "Purchase from store #5",
+        "date": "2024-12-18"
+      },
+      {
+        "id": "ade535b2-930d-465e-aa1f-48efabbb3e33",
+        "amount": 220.41,
+        "details": "Purchase from store #3",
+        "date": "2025-09-25"
+      },
+      {
+        "id": "e27d5892-4462-4197-aa53-210d2ce91811",
+        "amount": 299.11,
+        "details": "Purchase from store #4",
+        "date": "2025-09-16"
+      },
+      {
+        "id": "48a19822-71da-457e-9d8c-eddf1d14f9d0",
+        "amount": 270.41,
+        "details": "Purchase from store #4",
+        "date": "2025-01-05"
+      },
+      {
+        "id": "fcc9acfc-92cb-4203-be1d-e21de73e0741",
+        "amount": 92.72,
+        "details": "Purchase from store #5",
+        "date": "2025-08-17"
+      }
+    ]
+  },
+  {
+    "id": "CUST016",
+    "name": "Customer 16",
+    "transactions": [
+      {
+        "id": "eeaf684d-1cab-42aa-8a90-492ad49fd056",
+        "amount": 70.92,
+        "details": "Purchase from store #2",
+        "date": "2025-02-03"
+      },
+      {
+        "id": "8267fd12-dcb7-42f3-9499-03d29113c06c",
+        "amount": 67.92,
+        "details": "Purchase from store #2",
+        "date": "2025-09-08"
+      },
+      {
+        "id": "c9d5acf1-4ccc-4555-b145-3c61b2bcd7af",
+        "amount": 172.27,
+        "details": "Purchase from store #3",
+        "date": "2025-05-05"
+      },
+      {
+        "id": "89164b86-0d77-498f-a9b0-a68eb24f65a3",
+        "amount": 40.89,
+        "details": "Purchase from store #5",
+        "date": "2025-08-29"
+      },
+      {
+        "id": "63edf9d5-8304-47dd-b41f-3747cb8b9f42",
+        "amount": 113.79,
+        "details": "Purchase from store #2",
+        "date": "2024-05-24"
+      }
+    ]
+  },
+  {
+    "id": "CUST017",
+    "name": "Customer 17",
+    "transactions": [
+      {
+        "id": "997b014a-e99e-44cf-9524-b604001ea049",
+        "amount": 259.03,
+        "details": "Purchase from store #5",
+        "date": "2025-03-22"
+      },
+      {
+        "id": "7a05ad35-22b6-40dd-98c8-65a473d26aa1",
+        "amount": 107.11,
+        "details": "Purchase from store #5",
+        "date": "2025-10-21"
+      },
+      {
+        "id": "33eeecbf-c897-4be5-bf2d-5ba317b5824a",
+        "amount": 260.83,
+        "details": "Purchase from store #3",
+        "date": "2024-08-06"
+      },
+      {
+        "id": "cedb00e0-e4b0-47d2-b57c-27bce88b94e1",
+        "amount": 280.51,
+        "details": "Purchase from store #4",
+        "date": "2024-08-15"
+      },
+      {
+        "id": "6b09d8e8-0ece-4bde-8a7d-2bdd619e0e0e",
+        "amount": 163.24,
+        "details": "Purchase from store #4",
+        "date": "2025-01-07"
+      },
+      {
+        "id": "80de7a19-6fb1-485a-bb11-7388d637a519",
+        "amount": 226.06,
+        "details": "Purchase from store #5",
+        "date": "2025-08-26"
+      },
+      {
+        "id": "65d4d41f-49b5-4d9f-9b55-693931e844f1",
+        "amount": 267.37,
+        "details": "Purchase from store #3",
+        "date": "2024-11-09"
+      },
+      {
+        "id": "d517d251-b300-4ac5-a0ce-377878487e82",
+        "amount": 165.87,
+        "details": "Purchase from store #4",
+        "date": "2025-03-12"
+      },
+      {
+        "id": "0b9a209c-fddd-477b-9a8c-1f10c5379b6a",
+        "amount": 90.36,
+        "details": "Purchase from store #2",
+        "date": "2024-03-29"
+      },
+      {
+        "id": "e521d9a2-ed55-417d-84dc-415a1e64f57d",
+        "amount": 137.99,
+        "details": "Purchase from store #5",
+        "date": "2025-07-09"
+      },
+      {
+        "id": "170c7a9c-1d68-43e8-bda4-540a73182d26",
+        "amount": 216.28,
+        "details": "Purchase from store #1",
+        "date": "2024-10-22"
+      },
+      {
+        "id": "0622f62f-64d1-44a9-82ec-a12d143a6841",
+        "amount": 154.7,
+        "details": "Purchase from store #2",
+        "date": "2025-02-24"
+      },
+      {
+        "id": "604db131-f6f0-4326-bd46-6fb4893e7ba9",
+        "amount": 124.18,
+        "details": "Purchase from store #3",
+        "date": "2024-10-27"
+      }
+    ]
+  },
+  {
+    "id": "CUST018",
+    "name": "Customer 18",
+    "transactions": [
+      {
+        "id": "7a9cdae2-c4d7-4f93-8c76-aed07a87d5f8",
+        "amount": 259.27,
+        "details": "Purchase from store #2",
+        "date": "2024-04-19"
+      },
+      {
+        "id": "00b8b9ed-aef0-4867-b2b9-5ef2d84f70f5",
+        "amount": 110.18,
+        "details": "Purchase from store #3",
+        "date": "2025-04-21"
+      },
+      {
+        "id": "c045c0f2-8155-4097-8b50-a249c106a28e",
+        "amount": 238.53,
+        "details": "Purchase from store #5",
+        "date": "2025-08-31"
+      },
+      {
+        "id": "ba836de9-16f9-4394-8cee-ebe6ddcb0a77",
+        "amount": 168.28,
+        "details": "Purchase from store #4",
+        "date": "2025-10-05"
+      },
+      {
+        "id": "da7ab5da-1136-404d-b894-b691af164fd6",
+        "amount": 123.61,
+        "details": "Purchase from store #2",
+        "date": "2025-09-27"
+      },
+      {
+        "id": "b4b1e2bd-3f7f-42f4-a646-c07e4ede4363",
+        "amount": 194.66,
+        "details": "Purchase from store #4",
+        "date": "2024-07-04"
+      },
+      {
+        "id": "11219480-2525-41f5-a698-9d0150f7e941",
+        "amount": 169.85,
+        "details": "Purchase from store #2",
+        "date": "2025-03-03"
+      }
+    ]
+  },
+  {
+    "id": "CUST019",
+    "name": "Customer 19",
+    "transactions": [
+      {
+        "id": "9cceaf73-19f9-4b4e-a079-5fb81bbc9ead",
+        "amount": 219.62,
+        "details": "Purchase from store #3",
+        "date": "2025-10-23"
+      },
+      {
+        "id": "08cb8093-9285-4a00-a0a8-5cb93589104d",
+        "amount": 252.0,
+        "details": "Purchase from store #2",
+        "date": "2025-06-23"
+      },
+      {
+        "id": "4e6f75eb-2f75-4703-a31d-677c0240a70b",
+        "amount": 51.59,
+        "details": "Purchase from store #3",
+        "date": "2025-12-14"
+      },
+      {
+        "id": "ed1bbaec-4a2b-42f9-a093-da945caf0a97",
+        "amount": 27.55,
+        "details": "Purchase from store #3",
+        "date": "2025-06-29"
+      },
+      {
+        "id": "88c6bfac-4d3c-410a-a646-26a24427fae3",
+        "amount": 59.26,
+        "details": "Purchase from store #4",
+        "date": "2025-02-06"
+      },
+      {
+        "id": "50d557e2-1435-4295-8f5f-4e675c0acbf6",
+        "amount": 126.88,
+        "details": "Purchase from store #3",
+        "date": "2024-05-19"
+      },
+      {
+        "id": "331bdaa9-7561-4bed-9954-cfe37a438686",
+        "amount": 281.28,
+        "details": "Purchase from store #1",
+        "date": "2025-08-07"
+      },
+      {
+        "id": "ecadcbbb-b2a6-49b1-89b9-490ac0d95a38",
+        "amount": 277.23,
+        "details": "Purchase from store #5",
+        "date": "2025-10-20"
+      },
+      {
+        "id": "40dc0f41-2599-45e8-90aa-be93f7496ce5",
+        "amount": 184.69,
+        "details": "Purchase from store #2",
+        "date": "2025-07-29"
+      },
+      {
+        "id": "8e431b61-1b7f-4e75-855d-923423688dfe",
+        "amount": 80.01,
+        "details": "Purchase from store #2",
+        "date": "2024-12-25"
+      },
+      {
+        "id": "cb6bf9b8-6341-4828-94c9-e7dfa892b022",
+        "amount": 22.69,
+        "details": "Purchase from store #1",
+        "date": "2025-09-17"
+      },
+      {
+        "id": "a1ff65d5-c155-4528-b435-4e89b720a051",
+        "amount": 134.66,
+        "details": "Purchase from store #5",
+        "date": "2024-07-16"
+      },
+      {
+        "id": "24309b8f-ff6e-4875-9c13-6b835387c479",
+        "amount": 86.18,
+        "details": "Purchase from store #5",
+        "date": "2025-04-11"
+      },
+      {
+        "id": "b2f44eae-d39e-4c9f-a3ae-cbd2e2663b86",
+        "amount": 212.59,
+        "details": "Purchase from store #4",
+        "date": "2024-11-01"
+      },
+      {
+        "id": "a3d68039-da55-483a-ae62-3cf27d005f94",
+        "amount": 63.09,
+        "details": "Purchase from store #5",
+        "date": "2024-02-16"
+      }
+    ]
+  },
+  {
+    "id": "CUST020",
+    "name": "Customer 20",
+    "transactions": [
+      {
+        "id": "a6480d78-65ce-45a9-804a-b32eef009514",
+        "amount": 88.91,
+        "details": "Purchase from store #1",
+        "date": "2025-10-16"
+      },
+      {
+        "id": "5b2d1cf8-27e5-4a4e-81f3-929873cdd8a2",
+        "amount": 269.85,
+        "details": "Purchase from store #2",
+        "date": "2025-01-23"
+      },
+      {
+        "id": "586171a8-09fd-478f-9696-a2e3a68caa08",
+        "amount": 43.73,
+        "details": "Purchase from store #5",
+        "date": "2024-11-07"
+      },
+      {
+        "id": "24bdee37-1783-4187-8c82-9721af463733",
+        "amount": 158.95,
+        "details": "Purchase from store #5",
+        "date": "2025-09-21"
+      },
+      {
+        "id": "aec3e27c-bf3d-4ed6-a0a3-ce13fdb3511b",
+        "amount": 122.34,
+        "details": "Purchase from store #4",
+        "date": "2025-10-09"
+      },
+      {
+        "id": "211a7244-c38c-4226-82a9-52a949aa22f0",
+        "amount": 42.2,
+        "details": "Purchase from store #3",
+        "date": "2025-06-28"
+      },
+      {
+        "id": "50d30eac-2ba9-49f9-a515-6368f3e373d8",
+        "amount": 67.55,
+        "details": "Purchase from store #1",
+        "date": "2025-08-05"
+      },
+      {
+        "id": "e7c35031-ea10-439d-bea8-57dd529aa2bb",
+        "amount": 106.05,
+        "details": "Purchase from store #2",
+        "date": "2025-01-28"
+      },
+      {
+        "id": "58b57afd-61ca-4b2a-b4d6-a4fb0998bdd0",
+        "amount": 150.57,
+        "details": "Purchase from store #4",
+        "date": "2025-11-26"
+      },
+      {
+        "id": "306954bc-7b25-4878-901d-5ae542d5786b",
+        "amount": 252.35,
+        "details": "Purchase from store #1",
+        "date": "2024-08-18"
+      },
+      {
+        "id": "5e031048-4e9e-4caf-acba-252376498c25",
+        "amount": 25.64,
+        "details": "Purchase from store #1",
+        "date": "2024-03-05"
+      },
+      {
+        "id": "12960e2d-e0c5-49fd-9a84-74b884697ed7",
+        "amount": 208.96,
+        "details": "Purchase from store #3",
+        "date": "2025-09-22"
+      },
+      {
+        "id": "3a9d9322-6887-4911-a1b3-d8fc7240ba5d",
+        "amount": 206.52,
+        "details": "Purchase from store #1",
+        "date": "2025-07-18"
+      }
+    ]
+  },
+  {
+    "id": "CUST021",
+    "name": "Customer 21",
+    "transactions": [
+      {
+        "id": "364029d7-2385-4500-9ab4-27c655ded560",
+        "amount": 110.34,
+        "details": "Purchase from store #2",
+        "date": "2024-10-30"
+      },
+      {
+        "id": "048122c3-3fdb-4323-aec9-47e466055722",
+        "amount": 254.68,
+        "details": "Purchase from store #3",
+        "date": "2024-12-19"
+      },
+      {
+        "id": "211d11c4-a62e-4113-9262-63967fc133b7",
+        "amount": 251.37,
+        "details": "Purchase from store #4",
+        "date": "2024-06-18"
+      },
+      {
+        "id": "bb240d95-535a-40f3-a1fc-fd4d5febc37a",
+        "amount": 113.54,
+        "details": "Purchase from store #2",
+        "date": "2025-05-13"
+      },
+      {
+        "id": "4355e924-66b3-4235-9334-2cad5dd51973",
+        "amount": 112.8,
+        "details": "Purchase from store #3",
+        "date": "2025-12-13"
+      },
+      {
+        "id": "a209fda7-a6d3-4d4e-ad70-b00f5be718e3",
+        "amount": 258.05,
+        "details": "Purchase from store #3",
+        "date": "2025-06-09"
+      },
+      {
+        "id": "c3682fba-f0e0-4c56-987e-492334982109",
+        "amount": 66.73,
+        "details": "Purchase from store #2",
+        "date": "2024-05-19"
+      }
+    ]
+  },
+  {
+    "id": "CUST022",
+    "name": "Customer 22",
+    "transactions": [
+      {
+        "id": "bb16e48f-db30-4ded-913d-0f9deefcdbe1",
+        "amount": 54.68,
+        "details": "Purchase from store #2",
+        "date": "2025-03-25"
+      },
+      {
+        "id": "9773b10b-2fa3-4f9f-a554-ce8560e2c57d",
+        "amount": 93.99,
+        "details": "Purchase from store #4",
+        "date": "2024-03-11"
+      },
+      {
+        "id": "06aa6a5c-ae5b-4d72-abf9-7d8fbd407ba6",
+        "amount": 20.02,
+        "details": "Purchase from store #1",
+        "date": "2024-02-22"
+      },
+      {
+        "id": "10a7bb8b-25b1-4043-9d69-9a989540d92a",
+        "amount": 109.32,
+        "details": "Purchase from store #5",
+        "date": "2025-08-10"
+      },
+      {
+        "id": "d35f2b46-fb65-4271-a063-44d8488287cb",
+        "amount": 113.39,
+        "details": "Purchase from store #1",
+        "date": "2024-04-20"
+      },
+      {
+        "id": "3141b911-2bbd-43f0-918a-e6ab36f25919",
+        "amount": 182.84,
+        "details": "Purchase from store #4",
+        "date": "2024-11-09"
+      }
+    ]
+  },
+  {
+    "id": "CUST023",
+    "name": "Customer 23",
+    "transactions": [
+      {
+        "id": "65f636ba-ab61-4a55-b4e4-5629614a3a4c",
+        "amount": 174.83,
+        "details": "Purchase from store #5",
+        "date": "2025-11-08"
+      },
+      {
+        "id": "36f38b1f-22fa-46f5-b1f6-c52419f0dd56",
+        "amount": 223.38,
+        "details": "Purchase from store #4",
+        "date": "2024-09-22"
+      },
+      {
+        "id": "a9aa8c14-2a9c-4e3a-af81-162b24041bf0",
+        "amount": 264.85,
+        "details": "Purchase from store #3",
+        "date": "2024-11-27"
+      },
+      {
+        "id": "a7cce791-54c7-460d-aeb9-cf5577f9ad77",
+        "amount": 156.24,
+        "details": "Purchase from store #3",
+        "date": "2025-01-14"
+      },
+      {
+        "id": "75f2b8be-a790-4670-bbde-974cac41d706",
+        "amount": 145.19,
+        "details": "Purchase from store #4",
+        "date": "2024-12-05"
+      }
+    ]
+  },
+  {
+    "id": "CUST024",
+    "name": "Customer 24",
+    "transactions": [
+      {
+        "id": "0d1c7d50-f148-47c1-abcd-aff8a4b98276",
+        "amount": 183.17,
+        "details": "Purchase from store #1",
+        "date": "2025-10-19"
+      },
+      {
+        "id": "b0af71bb-d233-4a94-9f78-3fbb28d830fe",
+        "amount": 279.86,
+        "details": "Purchase from store #3",
+        "date": "2024-12-20"
+      },
+      {
+        "id": "4f3f0797-2607-40c4-a58f-8fce51bc2b4b",
+        "amount": 261.1,
+        "details": "Purchase from store #2",
+        "date": "2024-11-03"
+      },
+      {
+        "id": "62d4eb70-cdb3-4f52-91ed-385d52cbc426",
+        "amount": 14.4,
+        "details": "Purchase from store #3",
+        "date": "2024-10-28"
+      },
+      {
+        "id": "4990ad2b-be2d-455d-bef2-9b5b2b4cb196",
+        "amount": 11.26,
+        "details": "Purchase from store #2",
+        "date": "2025-08-25"
+      },
+      {
+        "id": "b68e99ae-81fd-4112-bacb-9b013bebb822",
+        "amount": 205.62,
+        "details": "Purchase from store #3",
+        "date": "2025-08-15"
+      },
+      {
+        "id": "76ade9b1-0027-4ab3-a897-f1dceac709f6",
+        "amount": 241.08,
+        "details": "Purchase from store #2",
+        "date": "2024-11-07"
+      },
+      {
+        "id": "3e017773-87b9-47c9-9d79-916c3b45e0f0",
+        "amount": 119.06,
+        "details": "Purchase from store #5",
+        "date": "2024-02-03"
+      },
+      {
+        "id": "597ff559-6949-4b87-ba4c-eea24565b39d",
+        "amount": 161.0,
+        "details": "Purchase from store #1",
+        "date": "2024-02-02"
+      },
+      {
+        "id": "e1e1838f-9462-418f-a129-c41ab4438e7d",
+        "amount": 16.5,
+        "details": "Purchase from store #5",
+        "date": "2025-11-19"
+      },
+      {
+        "id": "dc8df81d-a57a-45e1-b247-20e922416e54",
+        "amount": 89.75,
+        "details": "Purchase from store #5",
+        "date": "2025-09-23"
+      },
+      {
+        "id": "5f491bcd-de3a-44a4-983e-b5a63b802096",
+        "amount": 218.65,
+        "details": "Purchase from store #2",
+        "date": "2025-09-10"
+      },
+      {
+        "id": "32cb3462-50fd-41e8-8133-44247f658296",
+        "amount": 46.4,
+        "details": "Purchase from store #2",
+        "date": "2025-06-07"
+      },
+      {
+        "id": "79d571ba-f627-402f-b800-e08d5343ab01",
+        "amount": 185.32,
+        "details": "Purchase from store #3",
+        "date": "2024-03-04"
+      },
+      {
+        "id": "8f03e84d-ff23-4f10-95a3-3bd403bd5198",
+        "amount": 18.58,
+        "details": "Purchase from store #3",
+        "date": "2025-02-16"
+      }
+    ]
+  },
+  {
+    "id": "CUST025",
+    "name": "Customer 25",
+    "transactions": [
+      {
+        "id": "91046bc0-140d-453d-a044-e6aaacfe07a6",
+        "amount": 31.25,
+        "details": "Purchase from store #1",
+        "date": "2024-05-13"
+      },
+      {
+        "id": "d9b2e4eb-17b5-475b-9571-78194b3ddb21",
+        "amount": 84.42,
+        "details": "Purchase from store #1",
+        "date": "2024-06-18"
+      },
+      {
+        "id": "04dcb4b2-5ae6-47aa-b783-f259772d061e",
+        "amount": 281.34,
+        "details": "Purchase from store #1",
+        "date": "2024-07-28"
+      },
+      {
+        "id": "f01e8582-e5f7-4447-9cdc-12c55306d1ab",
+        "amount": 46.68,
+        "details": "Purchase from store #3",
+        "date": "2025-02-18"
+      },
+      {
+        "id": "62f2b8d9-5e73-40ed-9a27-0ca94f7ebe33",
+        "amount": 240.37,
+        "details": "Purchase from store #4",
+        "date": "2024-03-11"
+      },
+      {
+        "id": "d618b768-eef6-43ca-a117-717c019cf541",
+        "amount": 175.99,
+        "details": "Purchase from store #3",
+        "date": "2025-04-04"
+      },
+      {
+        "id": "c02d1bc2-2c07-4146-92b3-718a068eeac2",
+        "amount": 280.12,
+        "details": "Purchase from store #1",
+        "date": "2024-10-01"
+      },
+      {
+        "id": "7f500aa5-f80d-4b5a-804a-e97b559e890f",
+        "amount": 101.24,
+        "details": "Purchase from store #2",
+        "date": "2025-12-14"
+      },
+      {
+        "id": "563661b6-9cb0-45d0-9f77-a91c9bf557dc",
+        "amount": 216.47,
+        "details": "Purchase from store #3",
+        "date": "2024-12-18"
+      },
+      {
+        "id": "089dce19-b88d-4abf-b4a9-f52c2025e43d",
+        "amount": 262.02,
+        "details": "Purchase from store #4",
+        "date": "2024-12-27"
+      }
+    ]
+  },
+  {
+    "id": "CUST026",
+    "name": "Customer 26",
+    "transactions": [
+      {
+        "id": "66d16db3-afbd-4614-b1f0-ba4b22a6e8fd",
+        "amount": 102.24,
+        "details": "Purchase from store #4",
+        "date": "2025-09-18"
+      },
+      {
+        "id": "9eb40110-43f1-4877-873a-4ffdb0d33a19",
+        "amount": 215.61,
+        "details": "Purchase from store #5",
+        "date": "2025-05-30"
+      },
+      {
+        "id": "433ffa33-c46c-490f-bf09-6fef13321a1f",
+        "amount": 141.78,
+        "details": "Purchase from store #3",
+        "date": "2025-06-16"
+      },
+      {
+        "id": "eee8708f-65bf-4998-b00c-82153733c044",
+        "amount": 294.69,
+        "details": "Purchase from store #2",
+        "date": "2025-12-06"
+      },
+      {
+        "id": "02db0062-d85d-41af-b26f-9eddaf26ff6a",
+        "amount": 15.01,
+        "details": "Purchase from store #1",
+        "date": "2024-10-22"
+      },
+      {
+        "id": "aadb99ca-89e1-41bd-9a30-9f9da08aeeb5",
+        "amount": 265.12,
+        "details": "Purchase from store #3",
+        "date": "2024-02-19"
+      },
+      {
+        "id": "2964411b-6521-4ac2-aa30-6d0e9784cba8",
+        "amount": 79.42,
+        "details": "Purchase from store #5",
+        "date": "2025-07-02"
+      },
+      {
+        "id": "def0b0d8-cabe-4457-90fe-eed83bc8db94",
+        "amount": 212.93,
+        "details": "Purchase from store #5",
+        "date": "2025-05-19"
+      },
+      {
+        "id": "c4938b3b-cbe0-455e-b6d3-bc9525285f39",
+        "amount": 173.52,
+        "details": "Purchase from store #2",
+        "date": "2024-02-22"
+      },
+      {
+        "id": "9d412ec6-f1ae-4c8f-8780-d63c79bb58a6",
+        "amount": 210.53,
+        "details": "Purchase from store #4",
+        "date": "2024-06-03"
+      },
+      {
+        "id": "c2d5b4ad-c35a-4eaa-83ff-36e78b32686e",
+        "amount": 148.7,
+        "details": "Purchase from store #4",
+        "date": "2025-05-14"
+      }
+    ]
+  },
+  {
+    "id": "CUST027",
+    "name": "Customer 27",
+    "transactions": [
+      {
+        "id": "8f52c51b-553a-41b8-abcf-4271418f76ff",
+        "amount": 150.89,
+        "details": "Purchase from store #4",
+        "date": "2024-07-18"
+      },
+      {
+        "id": "53936778-376c-4de5-be97-964c8add8ae2",
+        "amount": 164.66,
+        "details": "Purchase from store #4",
+        "date": "2024-02-15"
+      },
+      {
+        "id": "833ac419-25a1-4c73-8d2c-5cb926a59f4e",
+        "amount": 180.06,
+        "details": "Purchase from store #1",
+        "date": "2025-06-09"
+      },
+      {
+        "id": "43ea55c9-bf93-4814-83e4-42db0a0cd9fb",
+        "amount": 207.0,
+        "details": "Purchase from store #2",
+        "date": "2025-10-17"
+      },
+      {
+        "id": "31fe4f25-21c6-49d8-a425-6faf51d29364",
+        "amount": 25.67,
+        "details": "Purchase from store #1",
+        "date": "2024-03-15"
+      },
+      {
+        "id": "adf4a5f2-5d75-4563-add4-c81698d140b1",
+        "amount": 12.33,
+        "details": "Purchase from store #4",
+        "date": "2024-06-14"
+      },
+      {
+        "id": "6c0a07d5-4c71-44c2-8368-c4b46f40f3e7",
+        "amount": 232.02,
+        "details": "Purchase from store #1",
+        "date": "2024-11-11"
+      },
+      {
+        "id": "cbf1fdf4-8d59-4af7-affd-82aaef01759d",
+        "amount": 18.43,
+        "details": "Purchase from store #4",
+        "date": "2024-09-06"
+      },
+      {
+        "id": "725a459e-8932-4462-a9f7-a58073737de2",
+        "amount": 121.65,
+        "details": "Purchase from store #5",
+        "date": "2025-10-21"
+      },
+      {
+        "id": "f6adc417-fdba-4c52-a828-13984a62cb81",
+        "amount": 32.85,
+        "details": "Purchase from store #4",
+        "date": "2025-10-21"
+      },
+      {
+        "id": "285ec447-8b49-4e87-be8e-7778aeeb62b4",
+        "amount": 172.73,
+        "details": "Purchase from store #5",
+        "date": "2025-10-09"
+      },
+      {
+        "id": "39b317b7-d82e-4889-83a3-8f174e849e54",
+        "amount": 185.39,
+        "details": "Purchase from store #1",
+        "date": "2024-03-01"
+      }
+    ]
+  },
+  {
+    "id": "CUST028",
+    "name": "Customer 28",
+    "transactions": [
+      {
+        "id": "8ada493a-e862-4237-9859-1b687b8ecaf6",
+        "amount": 172.11,
+        "details": "Purchase from store #5",
+        "date": "2025-12-06"
+      },
+      {
+        "id": "aa9a0ccd-1995-4117-8eba-443e76d877c4",
+        "amount": 190.49,
+        "details": "Purchase from store #1",
+        "date": "2024-08-08"
+      },
+      {
+        "id": "6fa5ddaa-0709-4039-a379-55853db43043",
+        "amount": 27.94,
+        "details": "Purchase from store #1",
+        "date": "2024-04-25"
+      },
+      {
+        "id": "207855c5-898e-4cda-b85f-10689da06ed0",
+        "amount": 160.57,
+        "details": "Purchase from store #2",
+        "date": "2024-05-16"
+      },
+      {
+        "id": "0817acd8-6845-4c83-9ebf-fcdb9f3ff0b5",
+        "amount": 81.81,
+        "details": "Purchase from store #4",
+        "date": "2024-07-15"
+      },
+      {
+        "id": "3257c08a-1881-44c9-906b-2ec9c83c05f5",
+        "amount": 286.16,
+        "details": "Purchase from store #3",
+        "date": "2025-12-01"
+      },
+      {
+        "id": "cd61691c-24fb-4450-891f-f98633290083",
+        "amount": 12.13,
+        "details": "Purchase from store #5",
+        "date": "2024-05-16"
+      },
+      {
+        "id": "15162558-6adb-4479-bece-04267f49bb7e",
+        "amount": 190.32,
+        "details": "Purchase from store #3",
+        "date": "2024-11-28"
+      },
+      {
+        "id": "d998aa70-6dad-400a-a70f-1a7a74f9b4f2",
+        "amount": 137.86,
+        "details": "Purchase from store #2",
+        "date": "2024-03-23"
+      },
+      {
+        "id": "ba892c02-6a81-443f-8ca7-daf2e3a20146",
+        "amount": 142.38,
+        "details": "Purchase from store #1",
+        "date": "2025-11-04"
+      },
+      {
+        "id": "b7744a33-65c2-4290-a387-4ce03238ae8c",
+        "amount": 38.81,
+        "details": "Purchase from store #4",
+        "date": "2024-09-02"
+      },
+      {
+        "id": "67db7cb3-b490-4a03-b21f-8cfe83a3450e",
+        "amount": 238.18,
+        "details": "Purchase from store #1",
+        "date": "2025-01-18"
+      }
+    ]
+  },
+  {
+    "id": "CUST029",
+    "name": "Customer 29",
+    "transactions": [
+      {
+        "id": "7643c16d-8b8d-4c30-84fe-3b4821c7a00d",
+        "amount": 138.81,
+        "details": "Purchase from store #1",
+        "date": "2025-01-21"
+      },
+      {
+        "id": "2756fd7d-71d1-4d98-97c9-06fc25f8dbb9",
+        "amount": 77.62,
+        "details": "Purchase from store #3",
+        "date": "2024-05-06"
+      },
+      {
+        "id": "0713df18-1e40-472a-8ba8-33590561c788",
+        "amount": 24.14,
+        "details": "Purchase from store #2",
+        "date": "2024-01-22"
+      },
+      {
+        "id": "8a25c7ed-9d50-41de-8e94-04a0a848a389",
+        "amount": 27.28,
+        "details": "Purchase from store #1",
+        "date": "2024-10-21"
+      },
+      {
+        "id": "b8d7a050-2899-4bc5-b3c2-3334c4e53230",
+        "amount": 197.3,
+        "details": "Purchase from store #5",
+        "date": "2025-08-21"
+      },
+      {
+        "id": "6eb01a25-0e88-4023-a3fc-f8ff8b78f826",
+        "amount": 204.93,
+        "details": "Purchase from store #1",
+        "date": "2025-08-03"
+      },
+      {
+        "id": "ab360ed9-94e8-4d9c-af67-5fcb8d573571",
+        "amount": 26.97,
+        "details": "Purchase from store #1",
+        "date": "2025-05-30"
+      }
+    ]
+  },
+  {
+    "id": "CUST030",
+    "name": "Customer 30",
+    "transactions": [
+      {
+        "id": "c1d08733-54f2-4c7c-950f-4aedd6417d6c",
+        "amount": 107.43,
+        "details": "Purchase from store #5",
+        "date": "2025-02-21"
+      },
+      {
+        "id": "2b446cce-2da3-496b-baf0-703f345b48ea",
+        "amount": 266.14,
+        "details": "Purchase from store #5",
+        "date": "2025-03-16"
+      },
+      {
+        "id": "0bd4fad5-8204-4ff6-b7c9-1c2d9ff03d1e",
+        "amount": 107.21,
+        "details": "Purchase from store #1",
+        "date": "2024-06-10"
+      },
+      {
+        "id": "844ea68a-9375-4676-847b-7eea670671e8",
+        "amount": 38.1,
+        "details": "Purchase from store #5",
+        "date": "2025-05-09"
+      },
+      {
+        "id": "c49773d4-fe6c-42aa-aa96-7e9a7ca80734",
+        "amount": 292.94,
+        "details": "Purchase from store #4",
+        "date": "2025-02-01"
+      },
+      {
+        "id": "cb597788-5242-4705-9fe5-c21436e0a773",
+        "amount": 104.79,
+        "details": "Purchase from store #2",
+        "date": "2025-08-24"
+      }
+    ]
+  },
+  {
+    "id": "CUST031",
+    "name": "Customer 31",
+    "transactions": [
+      {
+        "id": "8b8b867a-a958-4638-a483-5cb3cd96d6e2",
+        "amount": 256.33,
+        "details": "Purchase from store #5",
+        "date": "2025-12-03"
+      },
+      {
+        "id": "edf7519a-4623-4172-9089-8714e8d1bcea",
+        "amount": 241.06,
+        "details": "Purchase from store #5",
+        "date": "2025-08-19"
+      },
+      {
+        "id": "6b48ca1a-83cd-4d8c-ab46-801f27a53da2",
+        "amount": 125.09,
+        "details": "Purchase from store #5",
+        "date": "2025-01-19"
+      },
+      {
+        "id": "5fc42bd1-39d6-4a16-b303-c6a4cb4fff34",
+        "amount": 99.63,
+        "details": "Purchase from store #3",
+        "date": "2024-11-30"
+      },
+      {
+        "id": "5cc7eabc-4c23-4485-ac7c-26ab635ecb51",
+        "amount": 181.53,
+        "details": "Purchase from store #4",
+        "date": "2025-02-10"
+      },
+      {
+        "id": "6eb8b9fb-df85-4bcf-9ec3-013e1921189b",
+        "amount": 14.46,
+        "details": "Purchase from store #1",
+        "date": "2025-12-30"
+      },
+      {
+        "id": "1d11191e-82f9-4e10-968f-4b8d4092175a",
+        "amount": 31.35,
+        "details": "Purchase from store #3",
+        "date": "2025-04-05"
+      },
+      {
+        "id": "a8beabb0-aba0-49ae-959c-94d11b03828f",
+        "amount": 233.9,
+        "details": "Purchase from store #1",
+        "date": "2025-12-06"
+      },
+      {
+        "id": "f2244eb8-05b9-419b-9210-18a159a319a8",
+        "amount": 201.01,
+        "details": "Purchase from store #2",
+        "date": "2024-06-15"
+      },
+      {
+        "id": "2b131166-3028-47cb-bf15-8be2b4dec870",
+        "amount": 208.96,
+        "details": "Purchase from store #4",
+        "date": "2024-06-15"
+      },
+      {
+        "id": "cb49b0e9-147f-4171-8cd9-ffae60d28f99",
+        "amount": 30.71,
+        "details": "Purchase from store #5",
+        "date": "2024-04-01"
+      },
+      {
+        "id": "2f5ab0bc-36b9-46f7-93fc-4381e3de5f0b",
+        "amount": 110.88,
+        "details": "Purchase from store #2",
+        "date": "2024-09-01"
+      }
+    ]
+  },
+  {
+    "id": "CUST032",
+    "name": "Customer 32",
+    "transactions": [
+      {
+        "id": "fe5bbeb8-7efb-42f8-adf2-771b9e832928",
+        "amount": 53.51,
+        "details": "Purchase from store #4",
+        "date": "2024-04-14"
+      },
+      {
+        "id": "23faa87a-fbc2-47d3-9a92-19376243c803",
+        "amount": 207.76,
+        "details": "Purchase from store #1",
+        "date": "2024-04-28"
+      },
+      {
+        "id": "23c9ba8c-3e70-4b72-ae39-befd4954d05d",
+        "amount": 126.4,
+        "details": "Purchase from store #2",
+        "date": "2025-01-11"
+      },
+      {
+        "id": "a883d4a7-c611-4962-a141-2d567b879119",
+        "amount": 194.85,
+        "details": "Purchase from store #2",
+        "date": "2025-02-02"
+      },
+      {
+        "id": "c2126b5c-664f-4be0-9ec2-d0a0348548c8",
+        "amount": 130.91,
+        "details": "Purchase from store #1",
+        "date": "2024-04-17"
+      },
+      {
+        "id": "b16460a2-e921-45e8-a7e9-fd198f4981fb",
+        "amount": 192.75,
+        "details": "Purchase from store #5",
+        "date": "2024-09-04"
+      },
+      {
+        "id": "f7dd34ca-d105-472e-8e5c-0666f5abe327",
+        "amount": 71.39,
+        "details": "Purchase from store #1",
+        "date": "2024-10-12"
+      },
+      {
+        "id": "0f68b5fa-a2cb-4636-98ce-6d9ce585183a",
+        "amount": 99.02,
+        "details": "Purchase from store #3",
+        "date": "2025-08-20"
+      },
+      {
+        "id": "4a9cc7ae-e77b-44b4-b0d6-86688e2a977e",
+        "amount": 97.35,
+        "details": "Purchase from store #5",
+        "date": "2024-03-20"
+      },
+      {
+        "id": "ee4e79a9-f7ed-4106-b7f8-71ba95e031bc",
+        "amount": 278.61,
+        "details": "Purchase from store #1",
+        "date": "2025-02-02"
+      },
+      {
+        "id": "f294c188-5fba-4043-ab5b-63b1e5796cbf",
+        "amount": 223.04,
+        "details": "Purchase from store #5",
+        "date": "2024-07-16"
+      },
+      {
+        "id": "390def95-41b3-4f94-968d-edccc44ceacc",
+        "amount": 36.79,
+        "details": "Purchase from store #5",
+        "date": "2025-08-01"
+      }
+    ]
+  },
+  {
+    "id": "CUST033",
+    "name": "Customer 33",
+    "transactions": [
+      {
+        "id": "bb73a1f7-7eba-4596-aaac-077329bad477",
+        "amount": 219.34,
+        "details": "Purchase from store #3",
+        "date": "2024-11-21"
+      },
+      {
+        "id": "7335e6c3-c6ca-479e-aa5f-e81c89e21500",
+        "amount": 166.47,
+        "details": "Purchase from store #2",
+        "date": "2025-04-22"
+      },
+      {
+        "id": "3a32a994-4a35-48c6-97cd-6838f4966d2d",
+        "amount": 42.4,
+        "details": "Purchase from store #3",
+        "date": "2024-09-30"
+      },
+      {
+        "id": "7ad52f82-2346-43f7-9d50-8d28f6e026f8",
+        "amount": 139.55,
+        "details": "Purchase from store #4",
+        "date": "2025-11-03"
+      },
+      {
+        "id": "aadb7f1b-e399-4c04-90d1-f973c3e7d68e",
+        "amount": 121.35,
+        "details": "Purchase from store #5",
+        "date": "2025-05-18"
+      },
+      {
+        "id": "300222aa-e7d8-413e-b8de-03d0958efe7e",
+        "amount": 26.96,
+        "details": "Purchase from store #2",
+        "date": "2024-11-26"
+      },
+      {
+        "id": "21699bfe-9496-4904-a899-e3dd709fb309",
+        "amount": 292.73,
+        "details": "Purchase from store #2",
+        "date": "2024-11-02"
+      },
+      {
+        "id": "f58888b0-c6b3-41c0-9f14-6787af01484b",
+        "amount": 242.76,
+        "details": "Purchase from store #2",
+        "date": "2025-06-06"
+      },
+      {
+        "id": "380c0e7e-0bef-4f57-baad-59dd2a3badd5",
+        "amount": 95.11,
+        "details": "Purchase from store #4",
+        "date": "2024-05-14"
+      }
+    ]
+  },
+  {
+    "id": "CUST034",
+    "name": "Customer 34",
+    "transactions": [
+      {
+        "id": "bcf63d4d-2424-4603-919b-4ec32c0539b8",
+        "amount": 13.06,
+        "details": "Purchase from store #4",
+        "date": "2025-07-04"
+      },
+      {
+        "id": "92e6e295-dcb5-4fc4-9483-65e8ca8c60b1",
+        "amount": 216.29,
+        "details": "Purchase from store #5",
+        "date": "2024-05-04"
+      },
+      {
+        "id": "e1521091-4468-4328-b1ba-fcaa0c3fbd72",
+        "amount": 244.27,
+        "details": "Purchase from store #4",
+        "date": "2024-09-06"
+      },
+      {
+        "id": "a5f973ba-6c4e-42b1-9d68-ef93d7916c06",
+        "amount": 180.2,
+        "details": "Purchase from store #3",
+        "date": "2025-11-02"
+      },
+      {
+        "id": "e678aa99-b73b-4ca4-90fe-307a9670e284",
+        "amount": 214.13,
+        "details": "Purchase from store #5",
+        "date": "2025-09-28"
+      }
+    ]
+  },
+  {
+    "id": "CUST035",
+    "name": "Customer 35",
+    "transactions": [
+      {
+        "id": "588ea7e2-6a02-4ab3-8ffe-7cd115913859",
+        "amount": 202.92,
+        "details": "Purchase from store #5",
+        "date": "2024-10-01"
+      },
+      {
+        "id": "8db82534-2a3d-44b1-80b7-6e487cf70b9a",
+        "amount": 188.1,
+        "details": "Purchase from store #1",
+        "date": "2024-08-22"
+      },
+      {
+        "id": "b7510399-14cb-473f-8218-5049416ef0ca",
+        "amount": 61.84,
+        "details": "Purchase from store #5",
+        "date": "2025-10-05"
+      },
+      {
+        "id": "187a2dce-6329-4ca3-a181-9219c1623da1",
+        "amount": 209.51,
+        "details": "Purchase from store #5",
+        "date": "2024-12-17"
+      },
+      {
+        "id": "1ff6a0d2-99c9-4c3e-8cf8-c79d6c1be23a",
+        "amount": 167.23,
+        "details": "Purchase from store #2",
+        "date": "2025-11-21"
+      },
+      {
+        "id": "a6f36664-a66b-4f52-827c-d424043d8be1",
+        "amount": 120.55,
+        "details": "Purchase from store #4",
+        "date": "2024-02-23"
+      }
+    ]
+  },
+  {
+    "id": "CUST036",
+    "name": "Customer 36",
+    "transactions": [
+      {
+        "id": "b91b3ca1-c918-4023-b7e5-b431cb5306cb",
+        "amount": 149.95,
+        "details": "Purchase from store #4",
+        "date": "2025-04-30"
+      },
+      {
+        "id": "4c7e85c3-b155-4b1b-ad33-0e186003d231",
+        "amount": 152.65,
+        "details": "Purchase from store #1",
+        "date": "2024-09-14"
+      },
+      {
+        "id": "d37ad64b-6659-4b80-947a-b9e590c39068",
+        "amount": 59.8,
+        "details": "Purchase from store #4",
+        "date": "2024-12-09"
+      },
+      {
+        "id": "c9e58395-1a63-4705-85cc-6dda9eb44083",
+        "amount": 113.01,
+        "details": "Purchase from store #1",
+        "date": "2024-10-21"
+      },
+      {
+        "id": "4e6aa671-b45b-4470-be9d-52b36c5bf6f1",
+        "amount": 25.26,
+        "details": "Purchase from store #1",
+        "date": "2025-05-20"
+      },
+      {
+        "id": "4ecc1d2e-29d8-4b3c-aa48-33c06b65273d",
+        "amount": 273.72,
+        "details": "Purchase from store #2",
+        "date": "2024-01-29"
+      },
+      {
+        "id": "d9213d42-8a1c-4feb-9107-c508ce6456cd",
+        "amount": 11.67,
+        "details": "Purchase from store #3",
+        "date": "2025-07-02"
+      },
+      {
+        "id": "e27e256e-d7bc-42ae-8e72-110ee5aca37b",
+        "amount": 20.11,
+        "details": "Purchase from store #1",
+        "date": "2025-12-19"
+      },
+      {
+        "id": "846310d6-8a7c-44bf-a9d0-d77fa9e80f8d",
+        "amount": 250.91,
+        "details": "Purchase from store #5",
+        "date": "2025-06-12"
+      }
+    ]
+  },
+  {
+    "id": "CUST037",
+    "name": "Customer 37",
+    "transactions": [
+      {
+        "id": "52a95372-8c20-465b-8015-280f889f4ccd",
+        "amount": 41.66,
+        "details": "Purchase from store #1",
+        "date": "2025-03-10"
+      },
+      {
+        "id": "9c3cc3da-3836-439c-bd87-1c855577f2e4",
+        "amount": 236.41,
+        "details": "Purchase from store #1",
+        "date": "2025-10-24"
+      },
+      {
+        "id": "c5bdc72c-ef38-4f9d-8028-6a6fca86a9cc",
+        "amount": 263.75,
+        "details": "Purchase from store #3",
+        "date": "2024-04-05"
+      },
+      {
+        "id": "0b550441-2e84-41a7-86dd-e8c7280922a9",
+        "amount": 230.13,
+        "details": "Purchase from store #1",
+        "date": "2025-05-18"
+      },
+      {
+        "id": "6cc8ac9a-6557-4616-9dcc-df7e43c9ea1e",
+        "amount": 157.92,
+        "details": "Purchase from store #2",
+        "date": "2024-07-14"
+      },
+      {
+        "id": "c0274e4c-2d7c-4930-ba4d-678516b17990",
+        "amount": 232.95,
+        "details": "Purchase from store #2",
+        "date": "2024-04-14"
+      },
+      {
+        "id": "7aa15d3e-15c8-4dd5-8723-5d8cd00d7b9e",
+        "amount": 276.63,
+        "details": "Purchase from store #5",
+        "date": "2025-05-30"
+      }
+    ]
+  },
+  {
+    "id": "CUST038",
+    "name": "Customer 38",
+    "transactions": [
+      {
+        "id": "8834d214-0464-41cb-98c8-ffb38ae25aac",
+        "amount": 18.5,
+        "details": "Purchase from store #1",
+        "date": "2024-11-07"
+      },
+      {
+        "id": "a085a149-0df4-4cd3-adb9-3e2bc3ea7bb1",
+        "amount": 230.86,
+        "details": "Purchase from store #2",
+        "date": "2024-10-16"
+      },
+      {
+        "id": "79dee409-d298-443d-8b48-f6b897ea9900",
+        "amount": 267.31,
+        "details": "Purchase from store #5",
+        "date": "2025-09-12"
+      },
+      {
+        "id": "0b4c99fb-319f-41ee-9edd-8dfb80e37161",
+        "amount": 34.56,
+        "details": "Purchase from store #5",
+        "date": "2024-03-09"
+      },
+      {
+        "id": "bd22f495-55a0-410f-846b-97e0cfdb29b1",
+        "amount": 119.5,
+        "details": "Purchase from store #4",
+        "date": "2024-08-31"
+      },
+      {
+        "id": "70cce342-fdd8-4828-b846-6ede7e14d657",
+        "amount": 97.92,
+        "details": "Purchase from store #1",
+        "date": "2024-12-07"
+      },
+      {
+        "id": "0e22e519-b9c0-475e-bf26-8e3bba6aefef",
+        "amount": 227.95,
+        "details": "Purchase from store #4",
+        "date": "2025-07-03"
+      },
+      {
+        "id": "213a1700-2835-4c80-babf-16722a883f77",
+        "amount": 243.34,
+        "details": "Purchase from store #4",
+        "date": "2025-02-16"
+      },
+      {
+        "id": "0e4e448a-4688-4627-b389-13ae6aa2a17d",
+        "amount": 43.76,
+        "details": "Purchase from store #1",
+        "date": "2025-10-14"
+      },
+      {
+        "id": "ce151e42-347c-4951-8407-c7eb43066f63",
+        "amount": 203.26,
+        "details": "Purchase from store #4",
+        "date": "2025-11-11"
+      },
+      {
+        "id": "088b0832-d2cc-4ca3-acb1-898262fb32f1",
+        "amount": 235.99,
+        "details": "Purchase from store #1",
+        "date": "2025-09-27"
+      },
+      {
+        "id": "9ecb3065-3c89-4e1f-a08e-2bd0fb9a0dd2",
+        "amount": 260.87,
+        "details": "Purchase from store #5",
+        "date": "2025-03-25"
+      },
+      {
+        "id": "5b3d1d95-97d6-41c8-be69-4c3cd9647ca2",
+        "amount": 120.16,
+        "details": "Purchase from store #2",
+        "date": "2024-04-17"
+      }
+    ]
+  },
+  {
+    "id": "CUST039",
+    "name": "Customer 39",
+    "transactions": [
+      {
+        "id": "1aec1bda-2003-45fe-9c77-46a771ded5bd",
+        "amount": 173.54,
+        "details": "Purchase from store #1",
+        "date": "2025-08-26"
+      },
+      {
+        "id": "d06d835c-ebda-48e7-80b5-56b901ff3952",
+        "amount": 66.51,
+        "details": "Purchase from store #4",
+        "date": "2024-06-22"
+      },
+      {
+        "id": "4d1bc41f-2117-4896-b153-616e2bf9538f",
+        "amount": 215.16,
+        "details": "Purchase from store #3",
+        "date": "2024-05-25"
+      },
+      {
+        "id": "8761f4d9-abcf-4ea7-8484-e95683fed75a",
+        "amount": 271.27,
+        "details": "Purchase from store #1",
+        "date": "2024-09-25"
+      },
+      {
+        "id": "cf98e755-a518-43fa-a8a7-5e63e9126510",
+        "amount": 185.79,
+        "details": "Purchase from store #2",
+        "date": "2024-09-29"
+      },
+      {
+        "id": "317fd62e-a42f-42d1-94cd-429a2b415445",
+        "amount": 278.05,
+        "details": "Purchase from store #5",
+        "date": "2025-09-13"
+      },
+      {
+        "id": "f16474a2-04db-4c75-8a3c-6679e0e1de01",
+        "amount": 172.99,
+        "details": "Purchase from store #4",
+        "date": "2024-02-18"
+      },
+      {
+        "id": "e0985e60-e04c-455b-abbf-f6a5edca7e82",
+        "amount": 188.23,
+        "details": "Purchase from store #5",
+        "date": "2025-06-30"
+      },
+      {
+        "id": "a5b5bde9-61f3-4086-ae4e-f213c4a96539",
+        "amount": 164.59,
+        "details": "Purchase from store #4",
+        "date": "2025-03-22"
+      },
+      {
+        "id": "8e18b170-ec13-4e5a-820a-681f4cd2ae97",
+        "amount": 22.94,
+        "details": "Purchase from store #2",
+        "date": "2025-07-25"
+      },
+      {
+        "id": "537573d8-bbb5-48cf-adaf-b6b104cbd2cf",
+        "amount": 185.63,
+        "details": "Purchase from store #5",
+        "date": "2025-06-23"
+      },
+      {
+        "id": "1d28490b-b459-4bd0-b283-a129756d038c",
+        "amount": 281.62,
+        "details": "Purchase from store #3",
+        "date": "2025-11-09"
+      },
+      {
+        "id": "44d7afd4-499d-475a-a1e9-ea13dd8dde38",
+        "amount": 235.11,
+        "details": "Purchase from store #3",
+        "date": "2024-03-30"
+      }
+    ]
+  },
+  {
+    "id": "CUST040",
+    "name": "Customer 40",
+    "transactions": [
+      {
+        "id": "f953a490-5172-4197-ac9a-6d4970ac73a2",
+        "amount": 218.59,
+        "details": "Purchase from store #3",
+        "date": "2025-07-30"
+      },
+      {
+        "id": "86fc4622-5101-4ef7-950f-a7365dfb1c37",
+        "amount": 119.1,
+        "details": "Purchase from store #1",
+        "date": "2025-05-24"
+      },
+      {
+        "id": "6451e862-902c-44ef-8198-ece685a8e3f2",
+        "amount": 243.57,
+        "details": "Purchase from store #3",
+        "date": "2025-02-27"
+      },
+      {
+        "id": "27a06e04-bdaa-4b0e-b973-d340706ed3eb",
+        "amount": 156.49,
+        "details": "Purchase from store #1",
+        "date": "2025-03-26"
+      },
+      {
+        "id": "e7e276ed-da0c-476a-acb0-b40bc247dc4a",
+        "amount": 61.38,
+        "details": "Purchase from store #3",
+        "date": "2024-07-14"
+      },
+      {
+        "id": "a001ae9c-da5c-4d84-9de2-fa2e17832d02",
+        "amount": 44.66,
+        "details": "Purchase from store #4",
+        "date": "2024-11-17"
+      },
+      {
+        "id": "1553f1d1-b71a-492d-91c9-f68c258a7590",
+        "amount": 30.53,
+        "details": "Purchase from store #5",
+        "date": "2024-02-15"
+      },
+      {
+        "id": "32e059b7-927f-47a5-83b4-30bda6b1e2cc",
+        "amount": 241.0,
+        "details": "Purchase from store #4",
+        "date": "2025-01-20"
+      },
+      {
+        "id": "d19daf09-72f8-4f32-9d56-71b3affa663a",
+        "amount": 268.03,
+        "details": "Purchase from store #1",
+        "date": "2025-05-10"
+      },
+      {
+        "id": "a3806653-8797-4792-bb20-70fa72179745",
+        "amount": 73.29,
+        "details": "Purchase from store #2",
+        "date": "2025-10-15"
+      }
+    ]
+  }
+]
